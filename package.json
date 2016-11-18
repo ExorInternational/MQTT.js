@@ -1,5 +1,5 @@
 {
-  "name": "mqtt",
+  "name": "mqttexor",
   "description": "A library for the MQTT protocol",
   "version": "2.1.3",
   "contributors": [
